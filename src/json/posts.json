@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "titulo": "Materiais navais",
+    "texto": "# Em nossa lista de materiais navais temos :\n\n * Equipamentos de proteção\n\n *  Conexões industriais\n\n * Tubos industriais\n\n * Valvulas\n\n * Flanges\n\n * Chapas de aço\n\n * Cantoneiras\n\n * Barras chatas\n\n * Cordas & Cabos navais\n\n * Entre outros"
+  },
+  {
+    "id": 2,
+    "titulo": "Ferramentas em geral",
+    "texto": "# Em nossa lista de ferramentas temos uma infinidade de opções como\n\n \n\n # Ferramentas manuais :\n\n * Chave phillips\n\n * Chave de fenda\n\n * Chaves combinadas\n\n * Martelos\n\n * Entre outros \n\n \n\n # Ferramentas elétricas :\n\n * Furadeira\n\n * Lixadeiras\n\n * Parafusadeira \n\n * Chave de impacto\n\n * Entre outros"
+  },
+  {
+    "id": 3,
+    "titulo": "Material Elétrico",
+    "texto": "# Em nossa lista de materiais elétricos temos :\n\n * Lâmpadas leds\n\n * Lâmpadas especiais\n\n * Cabos elétricos\n\n * Fios elétricos\n\n * Filtros\n\n * Disjuntores\n\n* Entre outros"
+  },
+  {
+    "id": 4,
+    "titulo": "Materiais em geral",
+    "texto": "# Em nossa lista de materiais temos :\n\n * Material de escritório\n\n * Material de limpeza\n\n * Material de cozinha\n\n * Material de salvatagem\n\n * Tintas nauticas\n\n * Papelões TEADIT\n\n * Entre outros"
+  },
+  {
+    "id": 5,
+    "titulo": "Água mineral",
+    "texto": "## Entregamos galões de água mineral de 20L a bordo da sua embarcação"
+  },
+  {
+    "id": 6,
+    "titulo": "Estofados",
+    "texto": "## Fazemos reformas em cadeiras e sofás.\n ## basta entrar em contato para fazer o orçamento.\n\n ![Imagem de sofá](/assets/posts/6/1.png) ![Imagem de sofá](/assets/posts/6/2.png) ![Imagem de cadeira](/assets/posts/6/5.png)"
+  },
+  {
+    "id": 7,
+    "titulo": "Bordados",
+    "texto": "## Fazemos bordados em camisas e bonés.\n ## basta entrar em contato para fazer o orçamento.\n\n ![Imagem de kit](/assets/posts/7/kit.png)\n\n ![Imagem de boné](/assets/posts/7/bone3.png)\n\n ![Imagem de camisa](/assets/posts/7/camisa2.png)\n\n ##"
+  }
+]
